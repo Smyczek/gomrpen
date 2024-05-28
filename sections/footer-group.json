@@ -1,0 +1,101 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "newsletter_aDAydF": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_66KKtt": {
+          "type": "heading",
+          "settings": {
+            "heading": "GET ON THE LIST!",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_GQa8yw": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Sign up to receive relavent emails and texts about sales, special deals, and new releases.<\/p>"
+          }
+        },
+        "email_form_74tk3J": {
+          "type": "email_form",
+          "settings": {
+            "input_name": false,
+            "submit_button": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_66KKtt",
+        "paragraph_GQa8yw",
+        "email_form_74tk3J"
+      ],
+      "disabled": true,
+      "settings": {
+        "css_class": "gNewsletter",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 44
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "link_list_QX7zJG": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Catagories",
+            "menu": "main-menu"
+          }
+        },
+        "link_list_6LEhxR": {
+          "type": "link_list",
+          "settings": {
+            "heading": "About",
+            "menu": "footer"
+          }
+        },
+        "link_list_y4XeAc": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Other",
+            "menu": "footer-2"
+          }
+        },
+        "text_U9kCFX": {
+          "type": "text",
+          "settings": {
+            "heading": "Our Mission",
+            "subtext": "<p>Founded by teachers in Louisiana, with the mission to create and equip everyone with tools to enjoy the Bible.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_QX7zJG",
+        "link_list_6LEhxR",
+        "link_list_y4XeAc",
+        "text_U9kCFX"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 48,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "newsletter_aDAydF",
+    "footer"
+  ]
+}

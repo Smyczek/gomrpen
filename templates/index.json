@@ -1,0 +1,324 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>For the Word of God is Alive and Powerful...<\/strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Tools made for your Bible.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Bible Supplies",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "custom_class": "hero-banner",
+        "image": "shopify:\/\/shop_images\/IMG_2112.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "collection_list_4qRXDH": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_6zNLDF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bible-pens"
+          }
+        },
+        "featured_collection_VNHxxE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bible-highlighters"
+          }
+        },
+        "featured_collection_CnA6tf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bible-tabs"
+          }
+        },
+        "featured_collection_cAWW4X": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bible-journaling-kits"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_6zNLDF",
+        "featured_collection_VNHxxE",
+        "featured_collection_CnA6tf",
+        "featured_collection_cAWW4X"
+      ],
+      "settings": {
+        "css_class": "gCollections",
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-2",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_jXfy4c": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MAP3KM": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Mission",
+            "heading_size": "h1"
+          }
+        },
+        "text_hKixcP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Founded by teachers in Louisiana, with the mission to create and equip everyone with tools to enjoy the Bible.<\/p>"
+          }
+        },
+        "columns_CprQPj": {
+          "type": "columns",
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/coin-icon.svg",
+            "text_1": "<p>Accessible Pricing<\/p>",
+            "image_2": "shopify:\/\/shop_images\/pens-icon.svg",
+            "text_2": "<p>Purposeful Design<\/p>",
+            "image_3": "shopify:\/\/shop_images\/bible-icon.svg",
+            "text_3": "<p>God Glorifying Intent<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MAP3KM",
+        "text_hKixcP",
+        "columns_CprQPj"
+      ],
+      "settings": {
+        "css_class": "gTheMisison",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "css_class": "gTopSelling",
+        "title": "Top Selling Products",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "top-selling",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "icon",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "multirow_bFWnEc": {
+      "type": "multirow",
+      "blocks": {
+        "row_khDzk8": {
+          "type": "row",
+          "settings": {
+            "row_class": "gRow1",
+            "image": "shopify:\/\/shop_images\/6febf6076e9aa3d57d8c8ebebc399099.jpg",
+            "image_2": "shopify:\/\/shop_images\/3e6fb1a011b521c7b7dbfccccebc4d8d.png",
+            "caption": "",
+            "heading": "Selah Bible Journaling Collection",
+            "text": "<p>Bible Journaling Kit inspired by the Psalms, designed with SheLovesBible.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/mr-pen-bible-journaling-set-selah-collection-highlighters-and-pens-no-bleed-scripture-markers"
+          }
+        },
+        "row_Kmc4WV": {
+          "type": "row",
+          "settings": {
+            "row_class": "gRow2",
+            "image": "shopify:\/\/shop_images\/Untitled_design_13.png",
+            "caption": "",
+            "heading": "School Partnerships",
+            "text": "<p>Mr. Pen is looking to partner with local schools to help them fundraise, save money, and time for the 2024-2025 School Year. <\/p>",
+            "button_label": "Apply Now",
+            "button_link": "https:\/\/mrpen.com\/pages\/back-to-school-with-mr-pen"
+          }
+        }
+      },
+      "block_order": [
+        "row_khDzk8",
+        "row_Kmc4WV"
+      ],
+      "settings": {
+        "css_class": "gRows",
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "center",
+        "padding_top": 52,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_mUqGCT": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_iJwqqH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7590f8cc24de5d5d0b2f113414d97136.jpg",
+            "title": "",
+            "text": "<p>The packaging was nice. It’s very nice and decorative. The package came on time. The pens are so smooth. They don’t bleed on hobonichi paper which is where I tested the pens.<br\/>I loves these.<\/p>",
+            "text_2": "<strong>Kay Bailey, Verified Purchase<\/strong>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YU6z6f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/d3fa0d749fc07f016cc4f1fa1831f1d9.jpg",
+            "title": "",
+            "text": "<p>I am a pen snob. I like the tip to be very thin, but I also like it to write smoothly. I want it to feel nice in my hand, and I want it to look cute too. These are the best pens<br\/>I've ever used!<\/p>",
+            "text_2": "<strong>Jasmine Ramirez<\/strong>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TpEcEP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/aad0fa5924e679af1fd29464ddaa6224.jpg",
+            "title": "",
+            "text": "<p>If you’re seeking vibrant, legible highlighting tools for your bible, I highly recommend these gems. They’ve made my reading experience more colorful and meaningful! 🌟📖<\/p>",
+            "text_2": "<strong>Evans Colliver<\/strong>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_iJwqqH",
+        "column_YU6z6f",
+        "column_TpEcEP"
+      ],
+      "settings": {
+        "css_class": "gReviews",
+        "full_width": false,
+        "title": "<strong>100K+<\/strong> 5-star reviews",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-3",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 32
+      }
+    },
+    "image_with_text_qtTrE6": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_UwLQKK": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>100,000+ 5 Star Reviews<\/strong><\/h2><p>Join millions of others who have tried Mr. Pen and loved it.<\/p><h2><strong>Lifetime Warranty<\/strong><\/h2><p>If you don't love your supplies for any reason, send it back for a full refund, no questions asked.<\/p><h2><strong>Free and Fast Shipping <\/strong><\/h2><p>Shipped from Louisiana within 24 hours of your purchase.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_UwLQKK"
+      ],
+      "settings": {
+        "css_class": "gNotes",
+        "image": "shopify:\/\/shop_images\/IMG_1939-min.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 84,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "collection_list_4qRXDH",
+    "rich_text_jXfy4c",
+    "featured_collection",
+    "multirow_bFWnEc",
+    "multicolumn_mUqGCT",
+    "image_with_text_qtTrE6"
+  ]
+}

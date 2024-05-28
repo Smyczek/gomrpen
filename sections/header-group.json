@@ -1,0 +1,118 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement_bar_fqXfKA": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_c3KTCW": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Gift",
+            "link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_c3KTCW"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-55fe8cb5-11da-44a4-a478-cd5ac6410275",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "image_WVdHVE": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "megamenu_name": "bible-supplies",
+            "megamenu_image": "shopify:\/\/shop_images\/aad0fa5924e679af1fd29464ddaa6224.jpg",
+            "megamenu_image_link": "shopify:\/\/products\/mr-pen-bible-cover",
+            "megamenu_title": "Mr. Pen- Bible Cover",
+            "megamenu_image_width": "narrow"
+          }
+        },
+        "image_NXnW3G": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "megamenu_name": "bible-supplies",
+            "megamenu_image": "shopify:\/\/shop_images\/Snapinsta.app_339965588_739022267930519_1144923009979952601_n_1080-300x247.jpg",
+            "megamenu_image_link": "shopify:\/\/products\/bead-storage-containers-28-grids-2-pack-grey-160pcs-label-stickers",
+            "megamenu_title": "Sticker",
+            "megamenu_image_width": "wide"
+          }
+        },
+        "image_afUzdq": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "megamenu_name": "test",
+            "megamenu_image": "shopify:\/\/shop_images\/IMG_2112.jpg",
+            "megamenu_image_link": "",
+            "megamenu_title": "Bible",
+            "megamenu_image_width": "wide"
+          }
+        },
+        "image_Nrrj7t": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "megamenu_name": "test",
+            "megamenu_image": "shopify:\/\/shop_images\/6febf6076e9aa3d57d8c8ebebc399099.jpg",
+            "megamenu_image_link": "shopify:\/\/products\/adjustable-cardboard-corner-protectors-fits-1-1-5-and-2-1-frames-40-pack-corner-protectors-for-shipping-cardboard-packing-corner",
+            "megamenu_title": "test",
+            "megamenu_image_width": "narrow"
+          }
+        },
+        "image_wyTz7R": {
+          "type": "image",
+          "settings": {
+            "megamenu_name": "",
+            "megamenu_image_link": "",
+            "megamenu_title": "",
+            "megamenu_image_width": "narrow"
+          }
+        }
+      },
+      "block_order": [
+        "image_WVdHVE",
+        "image_NXnW3G",
+        "image_afUzdq",
+        "image_Nrrj7t",
+        "image_wyTz7R"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "logo_position": "middle-left",
+        "menu": "main-menu",
+        "menu_type_desktop": "mega",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": false,
+        "color_scheme": "scheme-1",
+        "menu_color_scheme": "",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "mobile_logo_position": "left",
+        "margin_bottom": 0,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "announcement_bar_fqXfKA",
+    "header"
+  ]
+}
